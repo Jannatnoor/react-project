@@ -1,6 +1,6 @@
 .navbar {
   background-color: blue;
-  color: #fff;
+
 }
 .title {
   font-size: 2.5rem;
@@ -16,4 +16,16 @@
 li {
   list-style: none;
   padding: 0 2rem 1rem;
+}
+.img{
+  height: 300px;
+  width: 300px;
+}
+.desc{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10% 10%;
+  background-color: aquamarine;
+
 }
