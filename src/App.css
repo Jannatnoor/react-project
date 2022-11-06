@@ -29,3 +29,12 @@ li {
   background-color: aquamarine;
 
 }
+.about{
+  align-items: center;
+  padding: 5% 5% 10%;
+}
+.about h1{
+  text-align: center;
+  margin-bottom: 5%;
+
+}
