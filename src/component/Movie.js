@@ -1,11 +1,11 @@
 import React from 'react';
 
 const Movie = (props) => {
-  console.log(props);
+  console.log(props.data);
 
   return (
     <div>
-      <p>name: {props}</p>
+      <p>name: {props.data[0].name}</p>
       <p>rating: </p>
 
       <p> - is a action movie</p>

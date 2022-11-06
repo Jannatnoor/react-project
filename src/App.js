@@ -39,7 +39,7 @@ const App = () => {
       <Navbar />
       <Main name='Jannat' age='23' pic={Image} info={info} />
       <About info='I am jannatun Noor, Studying Software Engineering at TAMK' />
-      <Movie data={movie}/>
+      <Movie data={movie} />
     </>
   );
 };
